@@ -27,7 +27,7 @@
     100%{ transform : translateX(100%) }
 }
 #breaker-two{
-    height: 50vh;
+    height: 100vh;
     width: 200%;
     background-color: #080808;
     opacity: 1;
